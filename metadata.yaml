@@ -1,0 +1,31 @@
+_repo: Memoria-sobre-as-diversas-salgas-da-sardinharuivos-e-outros-semelhantes-etc_36560
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: França, Clemente Ferreira
+    aliases:
+    - Franca, Clemente Ferreira
+    - Ferreira França, Clemente
+    gutenberg_agent_id: '38352'
+    url: http://www.gutenberg.org/2009/agents/38352
+description: ''
+gutenberg_issued: '2011-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36560'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SH'
+- !lcsh 'Salted fish'
+- !lcsh 'Fishery products -- Preservation'
+- !lcc 'HD'
+title: "Memoria sobre as diversas salgas da sardinha\r\ncom o methodo de aproveitar\
+  \ as enxovas, e sobre a salga dos peixes grossos, como atum, corvinas, pescadas,\
+  \ gorazes, ruivos, e outros semelhantes etc"
+url: http://www.gutenberg.org/ebooks/36560
